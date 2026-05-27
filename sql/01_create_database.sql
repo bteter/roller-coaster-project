@@ -1,0 +1,4 @@
+CREATE DATABASE roller_coaster_analysis;
+GO
+USE roller_coaster_analysis
+GO
