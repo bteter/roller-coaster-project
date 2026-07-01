@@ -1,0 +1,18 @@
+# SQL Database Setup and Exploration
+
+This folder documents the SQL portion of the Roller Coaster Analysis project.
+
+After cleaning and standardizing the dataset in Python using Pandas, I exported the final, cleaned CSV and imported it into a PostgreSQL database to practice database creation, table design, and querying.
+
+
+## Workflow
+
+1. Cleaned and standardized the original dataset in Python
+2. Exported the cleaned dataset as `cleaned_roller_coasters.csv`
+3. Created the `roller_coaster_analysis` database
+4. Created the `roller_coasters` table with appropriate data types
+5. Imported the cleaned CSV using PostgreSQL `\copy`
+6. Ran exploratory SQL queries to validate and analyze the data
+
+
+This SQL portion serves as hands-on practice with relational database workflows.
